@@ -1,0 +1,8 @@
+
+{
+    "modelPath": "multi_target_rf_model.pkl",
+    "scalerPath": "scaler.pkl",
+    "labelEncoderPositionPath": "label_encoder_position.pkl",
+    "labelEncoderT1Path": "label_encoder_t1.pkl",
+    "labelEncoderT2Path": "label_encoder_t2.pkl"
+}
